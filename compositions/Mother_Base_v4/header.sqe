@@ -20,18 +20,14 @@ requiredAddons[]=
 	"A3_Structures_F_Mil_Cargo",
 	"A3_Structures_F_Civ_InfoBoards",
 	"BTLSTD_Tomahawk_addon",
-	"BTLSTD_Defender_addon",
 	"A3_Structures_F_Ind_Crane",
 	"A3_Structures_F_Heli_Ind_Machines",
 	"ace_field_rations",
 	"A3_Structures_F_Civ_Constructions",
-	"A3_Structures_F_Enoch_Civilian_Constructions",
-	"A3_Structures_F_Heli_Civ_Constructions",
 	"A3_Structures_F_Civ_Camping",
 	"A3_Props_F_Enoch_Military_Camps",
 	"A3_Structures_F_Items_Electronics",
 	"A3_Props_F_Enoch_Industrial_Electric",
-	"A3_Props_F_Exp_Military_Camps",
 	"A3_Structures_F_Bootcamp_Items_Electronics",
 	"UK3CB_Factions_CW_US_B_EARLY",
 	"A3_Structures_F_EPA_Mil_Scrapyard",
@@ -58,6 +54,6 @@ requiredAddons[]=
 	"UK3CB_Factions_CW_US_B_LATE",
 	"A3_Modules_F_Multiplayer",
 	"A3_Structures_F_Ind_AirPort",
-	"A3_Weapons_F_Ammoboxes",
-	"A3_Ui_F"
+	"A3_Ui_F",
+	"A3_Weapons_F_Ammoboxes"
 };
