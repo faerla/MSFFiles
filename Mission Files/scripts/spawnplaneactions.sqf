@@ -5,6 +5,3 @@ planeSpawner addAction ["Spawn A10", "scripts\a10_veh.sqf"];
 planeSpawner addAction ["Spawn C-130 Cargo", "scripts\c130c_veh.sqf"];
 planeSpawner addAction ["Spawn C-130 Transport", "scripts\c130t_veh.sqf"];
 planeSpawner addAction ["Spawn Sopwith Camel", "scripts\cute_veh.sqf"];
-planeSpawner addAction ["Spawn Fuel Truck", "scripts\refuel_veh.sqf"];
-planeSpawner addAction ["Spawn Ammo Truck", "scripts\rearm_veh.sqf"];
-planeSpawner addAction ["Spawn Repair Truck", "scripts\repair_veh.sqf"];
