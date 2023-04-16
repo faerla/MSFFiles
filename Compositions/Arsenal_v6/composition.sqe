@@ -67,7 +67,15 @@ class items
 																	singleType="ARRAY";
 																	class value
 																	{
+<<<<<<< Updated upstream
 																		items=2201;
+=======
+<<<<<<< HEAD
+																		items=2201;
+=======
+																		items=2124;
+>>>>>>> parent of 3e6b128 (Update composition.sqe)
+>>>>>>> Stashed changes
 																		class Item0
 																		{
 																			class data
