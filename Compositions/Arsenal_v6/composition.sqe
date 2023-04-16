@@ -67,7 +67,8 @@ class items
 																	singleType="ARRAY";
 																	class value
 																	{
-																		items=2124;
+																		items=2201;
+																		
 																		class Item0
 																		{
 																			class data
@@ -17060,6 +17061,630 @@ class items
 																				value="cwr3_optic_iws";
 																			};
 																		};
+																		class Item2124
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK74M"
+																			};
+																		};
+																		class Item2125
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK74M_top_rail"
+																			};
+																		};
+																		class Item2126
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK74M_railed"
+																			};
+																		};
+																		class Item2127
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK74M_top_rail_afg"
+																			};
+																		};
+																		class Item2128
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK74M_top_rail"
+																			};
+																		};
+																		class Item2129
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK74M_GL"
+																			};
+																		};
+																		class Item2130
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK74M_GL_top_rail"
+																			};
+																		};
+																		class Item2131
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK74M_GL_railed"
+																			};
+																		};
+																		class Item2132
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AKMN"
+																			};
+																		};
+																		class Item2133
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_srifle_M21_ris"
+																			};
+																		};
+																		class Item2134
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_smg_MP5SD6"
+																			};
+																		};
+																		class Item2135
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK101"
+																			};
+																		};
+																		class Item2136
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK101_top_rail"
+																			};
+																		};
+																		class Item2137
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK101_railed"
+																			};
+																		};
+																		class Item2138
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK101_GL"
+																			};
+																		};
+																		class Item2139
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK101_GL_top_rail"
+																			};
+																		};
+																		class Item2140
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK101_GL_railed"
+																			};
+																		};
+																		class Item2141
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK102"
+																			};
+																		};
+																		class Item2142
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK102"
+																			};
+																		};
+																		class Item2143
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK102_railed"
+																			};
+																		};
+																		class Item2144
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK102_top_rail"
+																			};
+																		};
+																		class Item2145
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK103"
+																			};
+																		};
+																		class Item2146
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK103_top_rail"
+																			};
+																		};
+																		class Item2147
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK103_railed"
+																			};
+																		};
+																		class Item2148
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK103_GL"
+																			};
+																		};
+																		class Item2149
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK103_GL_top_rail"
+																			};
+																		};
+																		class Item2150
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK103_GL_railed"
+																			};
+																		};
+																		class Item2151
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK104"
+																			};
+																		};
+																		class Item2152
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK104_top_rail"
+																			};
+																		};
+																		class Item2153
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK104_railed"
+																			};
+																		};
+																		class Item2154
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK105"
+																			};
+																		};
+																		class Item2155
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK105_top_rail"
+																			};
+																		};
+																		class Item2156
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK105_railed"
+																			};
+																		};
+																		class Item2157
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK107"
+																			};
+																		};
+																		class Item2158
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK107_GL"
+																			};
+																		};
+																		class Item2159
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK107_top_rail"
+																			};
+																		};
+																		class Item2160
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK107_railed"
+																			};
+																		};
+																		class Item2161
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK107_GL_top_rail"
+																			};
+																		};
+																		class Item2162
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK107_GL_railed"
+																			};
+																		};
+																		class Item2163
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK108"
+																			};
+																		};
+																		class Item2164
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK108_GL"
+																			};
+																		};
+																		class Item2165
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK108_top_rail"
+																			};
+																		};
+																		class Item2166
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK108_railed"
+																			};
+																		};
+																		class Item2167
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK108_GL_top_rail"
+																			};
+																		};
+																		class Item2168
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK108_GL_railed"
+																			};
+																		};
+																		class Item2169
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK109"
+																			};
+																		};
+																		class Item2170
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK109_GL"
+																			};
+																		};
+																		class Item2171
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK109_top_rail"
+																			};
+																		};
+																		class Item2172
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK109_railed"
+																			};
+																		};
+																		class Item2173
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK109_GL_top_rail"
+																			};
+																		};
+																		class Item2174
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK109_GL_railed"
+																			};
+																		};
+																		class Item2175
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK12_black"
+																			};
+																		};
+																		class Item2176
+																		{
+																			class date
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK12_AFG_black"
+																			};
+																		};
+																		class Item2177
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK12_VG_black"
+																			};
+																		};
+																		class Item2178
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK12_GP34_black"
+																			};
+																		};
+																		class Item2179
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK15_black"
+																			};
+																		};
+																		class Item2180
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK15_AFG_black"
+																			};
+																		};
+																		class Item2181
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK15_VG_black"
+																			};
+																		};
+																		class Item2182
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK15_GP34_black"
+																			};
+																		};
+																		class Item2183
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK19_black"
+																			};
+																		};
+																		class Item2184
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK19_AFG_black"
+																			};
+																		};
+																		class Item2185
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK19_VG_black"
+																			};
+																		};
+																		class Item2186
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_AK19_GP34_black"
+																			};
+																		};
+																		class Item2187
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_Galil_SAR_black"
+																			};
+																		};
+																		class Item2188
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_arifle_SR3M_Vikhr_VFG_top_rail"
+																			};
+																		};
+																		class Item2189
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_srifle_VSSVintorez_flash"
+																			};
+																		};
+																		class Item2190
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_srifle_VSSVintorez_flash_top"
+																			};
+																		};
+																		class Item2191
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_hgun_Glock17_blk"
+																			};
+																		};
+																		class Item2192
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="cwr3_b_vest_tgfaust_alice_od"
+																			};
+																		};
+																		class Item2193
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="cwr3_b_vest_tgfaust_od"
+																			};
+																		};
+																		class Item2194
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="cwr3_b_vest_tgfaust_anite_od"
+																			};
+																		};
+																		class Item2195
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="cwr3_b_vest_pasgt_alice_black"
+																			};
+																		};
+																		class Item2196
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="cwr3_b_vest_pasgt_alice_woodland"
+																			};
+																		};
+																		class Item2197
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="cwr3_b_vest_pasgt_alice_anite_black"
+																			};
+																		};
+																		class Item2198
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="cwr3_b_vest_pasgt_alice_anite_m81"
+																			};
+																		};
+																		class Item2199
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="cwr3_b_vest_pasgt_alice_anite_od"
+																			};
+																		};
+																		class Item2200
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="cwr3_b_backpack_alice"
+																			};
+																		};
+																		class Item2201
+																		{
+																			class data
+																			{
+																				singleType="STRING";
+																				value="CUP_H_PMC_EP_Headset"
+																			};
+																	};
 																	};
 																};
 															};
